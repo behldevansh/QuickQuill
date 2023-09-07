@@ -41,7 +41,7 @@ function Header() {
       </form>
 
       {/* Avatar */}
-      <Avatar name="Devansh Behl" size="50" round color="#0055D1"/>
+      {/* <Avatar name="Devansh Behl" size="50" round color="#0055D1"/> */}
       
       
     </div>
